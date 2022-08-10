@@ -7,6 +7,7 @@
 :C?*:retard::re'tard
 :C?*:kill urself::kill u'rself
 :C?*:pussy::pu'ssy
+:C?*:kys::k'ys
 
 :C?*:SHIT ::SHI'T
 :C?*:FUCK::FUC'K
@@ -17,3 +18,4 @@
 :C?*:RETARD::RE'TARD
 :C?*:KILL URSELF::KILL U'RSELF
 :C?*:PUSSY::PU'SSY
+:C?*:KYS::K'YS

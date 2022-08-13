@@ -1,4 +1,4 @@
-:C?*:shit ::shi't
+:C?*:shit::shi't
 :C?*:fuck::fuc'k
 :C?*:whore::wh'ore
 :C?*:slut::sl'ut
@@ -8,8 +8,9 @@
 :C?*:kill urself::kill u'rself
 :C?*:pussy::pu'ssy
 :C?*:kys::k'ys
+:C?*:cunt::c'unt
 
-:C?*:SHIT ::SHI'T
+:C?*:SHIT ::SHI'T 
 :C?*:FUCK::FUC'K
 :C?*:WHORE::WH'ORE
 :C?*:SLUT::SL'UT
@@ -19,3 +20,4 @@
 :C?*:KILL URSELF::KILL U'RSELF
 :C?*:PUSSY::PU'SSY
 :C?*:KYS::K'YS
+:C?*:CUNT::C'UNT

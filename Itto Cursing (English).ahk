@@ -9,6 +9,8 @@
 :C?*:pussy::pu'ssy
 :C?*:kys::k'ys
 :C?*:cunt::c'unt
+:C?*:milf::mil'f
+:C?*:vagina::vag'ina
 
 :C?*:SHIT ::SHI'T 
 :C?*:FUCK::FUC'K
@@ -21,3 +23,22 @@
 :C?*:PUSSY::PU'SSY
 :C?*:KYS::K'YS
 :C?*:CUNT::C'UNT
+:C?*:MILF::MIL'F
+:C?*:VAGINA::VAG'INA
+
+:C?*:Shit::Shi't
+:C?*:Fuck::Fuc'k
+:C?*:Whore::Wh'ore
+:C?*:Slut::Sl'ut
+:C?*:Kill yourself::Kill yo'urself
+:C?*:Bitch::Bi'tch
+:C?*:Retard::Re'tard
+:C?*:Kill urself::Kill u'rself
+:C?*:Pussy::Pu'ssy
+:C?*:Kys::K'ys
+:C?*:Cunt::C'unt
+:C?*:Milf::Mil'f
+:C?*:Vagina::Vag'ina
+
+:C?*:kill Urself::Kill U'rself
+:C?*:Kill Yourself::Kill Yo'urself

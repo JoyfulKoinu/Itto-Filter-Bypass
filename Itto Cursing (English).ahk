@@ -11,6 +11,8 @@
 :C?*:cunt::c'unt
 :C?*:milf::mil'f
 :C?*:vagina::vag'ina
+:C?*:titties::ti'tties
+:C?*:penis::pe'nis
 
 :C?*:SHIT ::SHI'T 
 :C?*:FUCK::FUC'K
@@ -25,7 +27,10 @@
 :C?*:CUNT::C'UNT
 :C?*:MILF::MIL'F
 :C?*:VAGINA::VAG'INA
+:C?*:TITTIES::TI'TTIES
+:C?*:PENIS::PE'NIS
 
+:C?*:Penis::Pe'nis
 :C?*:Shit::Shi't
 :C?*:Fuck::Fuc'k
 :C?*:Whore::Wh'ore
@@ -39,6 +44,7 @@
 :C?*:Cunt::C'unt
 :C?*:Milf::Mil'f
 :C?*:Vagina::Vag'ina
+:C?*:Titties::Ti'tties
 
 :C?*:kill Urself::Kill U'rself
 :C?*:Kill Yourself::Kill Yo'urself
